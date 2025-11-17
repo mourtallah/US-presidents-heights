@@ -236,6 +236,16 @@ The height bias raises **serious concerns** about democratic representation:
 
 ## 📊 Visual Analysis: The Data Story
 
+### Visuals
+
+![Height panels](images/height_panels.png)
+
+_*Figure 1: Four-panel view showing the distribution (histogram), boxplot, density (violin), and normality (QQ-plot) of presidential heights (inches). The central tendency and spread show most presidents cluster around 6'0"._
+
+![Height timeline](images/timeline.png)
+
+_*Figure 2: Timeline of presidential heights by presidential order with a fitted trend line and a reference for the average US male height (dotted red line). The plot highlights historical consistency and the tallest/shortest presidents._
+
 ### Height Distribution Patterns
 
 Our visual analysis reveals **clear patterns** in presidential heights:
@@ -379,3 +389,4 @@ This investigation reveals that **height operates as an invisible hand** in Amer
 ---
 
 *This report represents a comprehensive analysis of presidential heights and their implications for American democracy. The findings reveal both statistical patterns and cultural mechanisms that have shaped political leadership for over two centuries.*
+
